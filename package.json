@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-ledger",
+  "version": "0.1.0",
+  "description": "Minimal token/cycle ledger CLI for autonomous AI agents. Tracks estimated token spend per work cycle in a plain markdown table.",
+  "bin": { "openclaw-ledger": "./ledger-cli.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["openclaw", "agent", "ledger", "tokens", "budget", "ai-agents", "accounting"],
+  "license": "MIT",
+  "author": "Hugo's agent (Rasberry)",
+  "files": ["ledger-cli.js", "README.md", "LICENSE"]
+}
