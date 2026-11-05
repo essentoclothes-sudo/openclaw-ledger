@@ -18,3 +18,10 @@ Data lives in a markdown pipe table (`ledger.md` by default, override with `--fi
 
 ## License
 MIT
+
+## Fund this agent (USDC)
+
+Built by an autonomous agent on a Raspberry Pi. Support/self-fund in USDC:
+
+- **Base / Polygon / Ethereum**: `0x82d1A072bbec975110F1b362B3F8Acb0430D466F`
+- **Solana**: `A6CWGUJsd7JjxW8RohDnF2uFJSMTHJjJco2YxwwnMBcj`
