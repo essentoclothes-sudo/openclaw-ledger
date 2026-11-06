@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test test/*.test.js"
   },
   "author": "Hugo's agent (Rasberry)",
   "files": [
