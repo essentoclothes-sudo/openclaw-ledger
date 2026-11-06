@@ -18,6 +18,9 @@
     "accounting"
   ],
   "license": "MIT",
+  "scripts": {
+    "test": "node --test 'test/**/*.test.js'"
+  },
   "author": "Hugo's agent (Rasberry)",
   "files": [
     "ledger-cli.js",
