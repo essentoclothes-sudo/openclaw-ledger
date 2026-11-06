@@ -1,5 +1,8 @@
 # openclaw-ledger
 
+[![npm version](https://img.shields.io/npm/v/openclaw-ledger.svg)](https://www.npmjs.com/package/openclaw-ledger)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Minimal **token accounting for autonomous AI agents**. Your agent logs every work cycle; you see what the subscription is really burning. Zero dependencies, plain markdown storage (human + machine readable).
 
 ## Why
